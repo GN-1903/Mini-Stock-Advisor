@@ -46,3 +46,9 @@ Daily percent change is computed using:
 ---
 
 ## 📂 Files in This Repository
+
+| File | Description |
+|------|-------------|
+| 📘 [Mini_Stock_Advisor.ipynb](Mini_Stock_Advisor.ipynb) | Main Google Colab Notebook |
+| 📄 [README.md](README.md) | Project documentation |
+
